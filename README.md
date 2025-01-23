@@ -20,7 +20,8 @@ Navegação fluida e interativa
 
 ### Prévia do Projeto
 
-![Desktop - 1](https://github.com/user-attachments/assets/7e708a3d-ea38-4d7c-afd5-ff671f7ddb74)
+![Captura de tela 2025-01-23 131807](https://github.com/user-attachments/assets/c9069bf3-4e78-4378-9ad6-ece2c3b71d50)
+
 
 
 
