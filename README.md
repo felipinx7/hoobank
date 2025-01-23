@@ -1,31 +1,32 @@
-#HOOBANK
-Uma interface moderna para uma página inicial bancária
+# HOOBANK PROJECT
 
-Este projeto consiste no desenvolvimento de uma página inicial responsiva e estilosa para um banco digital. Criado com foco em performance, design moderno e usabilidade, o hoobank é ideal para aprimorar habilidades em front-end e proporcionar uma experiência incrível aos usuários.
+This project was bootstrapped wit [Create React App](https://github.com/facebook/create-react-app).
 
-🛠️ Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
+
 React
-Tailwind CSS
+
+Styled-components
+
 TypeScript
-📌 Funcionalidades
+
+## 📌 Funcionalidades
+
 Layout responsivo para dispositivos móveis e desktops
-Componentes reutilizáveis e estilizados com Tailwind CSS
+
+Componentes reutilizáveis e estilizados com Styled-components
+
 Navegação fluida e interativa
-🚀 Como rodar o projeto
-Clone este repositório:
-bash
-Copiar
-Editar
-git clone https://github.com/seu-usuario/hoobank.git
-Instale as dependências com o Yarn:
-bash
-Copiar
-Editar
-yarn  
-Inicie o servidor de desenvolvimento:
-bash
-Copiar
-Editar
-yarn dev  
-🖼️ Prévia do projeto
-Adicione uma imagem ou GIF mostrando a interface do hoobank aqui.
+
+### Prévia do Projeto
+
+![Desktop - 1](https://github.com/user-attachments/assets/7e708a3d-ea38-4d7c-afd5-ff671f7ddb74)
+
+
+
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
